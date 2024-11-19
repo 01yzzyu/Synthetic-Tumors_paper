@@ -1,9 +1,8 @@
-# Awesome Synthetic Tumors in Medical Imaging [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Synthetic Tumors in Medical Imaging [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 - ❤ We provide a comprehensive list of tumor synthesis in medical imaging.
-- 🔥 Welcome to share the paper and code through the [issues](https://github.com/MrGiovanni/SyntheticTumors/issues/1).
 
 ## Paper
 
