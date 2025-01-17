@@ -183,7 +183,4 @@ IEEE Access | 27 June 2019
 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886112)
 
 
-**PATE-GAN: Generating synthetic data with differential privacy guarantees**
-*James Jordon, Jinsung Yoon, Mihaela van der Schaar*
-ICLR | 21 December 2018
-[paper](https://openreview.net/pdf?id=S1zk9iRqF7) [![GitHub stars](https://img.shields.io/github/stars/vanderschaarlab/mlforhealthlabpub.svg?logo=github&label=Stars)](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan)
+
